@@ -10,9 +10,9 @@
 		}
 	],
 	"background": {
-		"blur": "1",
+		"blur": "2",
 		"url": "https://cdn.discordapp.com/attachments/1164832441639379026/1209768762878984242/IMG_4232.png?ex=65e81ff5&is=65d5aaf5&hm=a856dcf978edbc34bf12350f24dd9e7b320b53c7b6755380ddf5293d0682f2dd&%22,",
-		"alpha": "1.69"
+		"alpha": "0.69"
 	},
 	"theme_color_map": {
 		"KEYBOARD": ["#111011", "#FFFFFF"],
